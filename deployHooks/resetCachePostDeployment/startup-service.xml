@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<startupService>
+    <service>nabu.misc.deployment.deployHooks.resetCache</service>
+    <asynchronous>false</asynchronous>
+    <runPostDeployment>true</runPostDeployment>
+    <properties/>
+    <runPreDeployment>false</runPreDeployment>
+    <runDuringDeployment>false</runDuringDeployment>
+    <runAtStartup>false</runAtStartup>
+</startupService>
